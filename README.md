@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Usama
-- 👀 I’m interested in Web3.0 | Blockchain | NFTs | Substrate | 
-- 🌱 I’m currently learning Substrate | Rust | MetaProgramming
-- 💞️ I’m looking to collaborate on Open Source Custom blockchains built with Substrate
+- 👀 I’m interested in Web3.0 | Blockchain | NFTs | Substrate | Cosmos
+- 🌱 I’m currently learning Substrate | Rust | MetaProgramming | GoLang
+- 💞️ I’m looking to collaborate on Open Source Custom blockchains built with Substrate & Cosmos
 - 📫 How to reach me 
 -   Email at: aliusama481@yahoo.com
 -   LinkedIn: https://www.linkedin.com/in/aliusama14/
